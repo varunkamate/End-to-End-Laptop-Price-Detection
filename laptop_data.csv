@@ -1,0 +1,51 @@
+SKU,Brand,Model,CPU,RAM,Primary_Storage,Secondary_Storage,GPU,Screen_Size,Resolution,Weight_kg,OS,Type,Battery_Hours,Touchscreen,Price_INR
+SKU0001,Acer,Acer-Model-1,Ryzen 5 5600H,32GB,256GB SSD,None,Intel Iris Xe,15.6,FHD,1.96,macOS,Gaming,8.6,No,81344
+SKU0002,Lenovo,Lenovo-Model-2,Intel i3-1115G4,16GB,1TB SSD,None,RTX 3060,15.6,HD,2.38,Windows 11,Notebook,10,No,159406
+SKU0003,Dell,Dell-Model-3,Ryzen 5 5600H,16GB,1TB SSD,1TB HDD,RTX 3060,14,FHD,1.42,Linux,Gaming,4.7,No,70206
+SKU0004,Acer,Acer-Model-4,Intel i7-12700H,16GB,1TB SSD,None,Intel Iris Xe,14,HD,2.28,Linux,Notebook,5.9,Yes,106808
+SKU0005,Apple,Apple-Model-5,Ryzen 5 5600H,32GB,1TB SSD,None,RTX 3060,14,QHD,1.97,macOS,Ultrabook,4.9,No,106638
+SKU0006,Acer,Acer-Model-6,Ryzen 5 5600H,16GB,512GB SSD,1TB HDD,Integrated,13.3,FHD,1.71,Linux,Business,6.9,No,84358
+SKU0007,HP,HP-Model-7,Intel i5-12450H,32GB,256GB SSD,None,GTX 1650,16,HD,1.77,Linux,Ultrabook,9.6,No,68141
+SKU0008,Apple,Apple-Model-8,Ryzen 7 5800H,8GB,512GB SSD,None,Intel Iris Xe,15.6,FHD,2.36,Linux,Gaming,4.9,Yes,140974
+SKU0009,Lenovo,Lenovo-Model-9,Apple M2,32GB,1TB SSD,1TB HDD,RTX 3050,16,QHD,2.13,Linux,Gaming,5.2,No,118412
+SKU0010,Dell,Dell-Model-10,Ryzen 5 5600H,16GB,1TB SSD,None,RTX 3060,14,FHD,2.21,Linux,Gaming,6.4,No,164500
+SKU0011,Acer,Acer-Model-11,Intel i7-12700H,16GB,256GB SSD,None,Integrated,14,FHD,2.09,Windows 11,Notebook,5.6,No,112563
+SKU0012,Dell,Dell-Model-12,Ryzen 5 5600H,8GB,256GB SSD,1TB HDD,RTX 3060,15.6,FHD,1.47,Windows 10,Ultrabook,7,Yes,132601
+SKU0013,Lenovo,Lenovo-Model-13,Apple M2,32GB,512GB SSD,None,GTX 1650,14,HD,1.97,Windows 10,Ultrabook,8,No,110013
+SKU0014,Acer,Acer-Model-14,Apple M2,16GB,512GB SSD,None,Intel Iris Xe,15.6,HD,1.67,Windows 10,Ultrabook,5.9,No,164949
+SKU0015,MSI,MSI-Model-15,Ryzen 5 5600H,8GB,1TB SSD,1TB HDD,Integrated,13.3,FHD,1.72,Windows 10,Notebook,7.1,No,89218
+SKU0016,ASUS,ASUS-Model-16,Apple M1,8GB,1TB SSD,None,Integrated,16,HD,2.48,macOS,Notebook,7,Yes,135909
+SKU0017,MSI,MSI-Model-17,Intel i7-12700H,8GB,1TB SSD,None,RTX 3060,13.3,QHD,1.89,Windows 11,Gaming,6.2,No,116468
+SKU0018,Apple,Apple-Model-18,Intel i7-12700H,8GB,1TB SSD,1TB HDD,RTX 3050,16,FHD,1.72,macOS,Gaming,6.3,No,124611
+SKU0019,MSI,MSI-Model-19,Apple M2,32GB,512GB SSD,None,RTX 3060,13.3,FHD,1.91,Windows 10,Gaming,5.4,No,88006
+SKU0020,Lenovo,Lenovo-Model-20,Ryzen 5 5600H,8GB,512GB SSD,None,Intel Iris Xe,14,FHD,1.69,Windows 11,Notebook,6.1,Yes,91968
+SKU0021,HP,HP-Model-21,Apple M2,32GB,1TB SSD,1TB HDD,Integrated,14,HD,1.43,Windows 11,Ultrabook,8.2,No,160293
+SKU0022,ASUS,ASUS-Model-22,Ryzen 5 5600H,8GB,1TB SSD,None,Intel Iris Xe,14,HD,2.29,Windows 10,Ultrabook,8.3,No,45704
+SKU0023,ASUS,ASUS-Model-23,Apple M1,32GB,512GB SSD,None,Intel Iris Xe,13.3,FHD,1.49,Windows 11,Business,9.3,No,95740
+SKU0024,Apple,Apple-Model-24,Ryzen 7 5800H,8GB,256GB SSD,1TB HDD,GTX 1650,13.3,QHD,1.53,Windows 10,Business,8,Yes,46075
+SKU0025,Lenovo,Lenovo-Model-25,Intel i7-12700H,8GB,256GB SSD,None,Integrated,15.6,FHD,1.33,Windows 10,Business,7,No,66325
+SKU0026,Acer,Acer-Model-26,Intel i5-12450H,32GB,256GB SSD,None,RTX 3050,14,QHD,1.54,Windows 11,Ultrabook,6,No,124837
+SKU0027,HP,HP-Model-27,Apple M1,16GB,512GB SSD,1TB HDD,RTX 3050,16,FHD,1.72,Windows 10,Ultrabook,5.1,No,81102
+SKU0028,Apple,Apple-Model-28,Intel i7-12700H,32GB,1TB SSD,None,RTX 3060,15.6,QHD,1.82,Linux,Business,9.3,Yes,98003
+SKU0029,HP,HP-Model-29,Apple M1,16GB,512GB SSD,None,RTX 3060,16,FHD,2.37,Windows 10,Gaming,6.2,No,158515
+SKU0030,ASUS,ASUS-Model-30,Intel i7-12700H,32GB,256GB SSD,1TB HDD,Intel Iris Xe,16,FHD,1.55,Windows 11,Gaming,9.1,No,146893
+SKU0031,Apple,Apple-Model-31,Apple M2,32GB,1TB SSD,None,Intel Iris Xe,15.6,FHD,1.66,Windows 10,Ultrabook,8.5,No,131358
+SKU0032,Dell,Dell-Model-32,Ryzen 7 5800H,16GB,1TB SSD,None,RTX 3050,13.3,HD,1.58,Windows 10,Gaming,8.8,Yes,139214
+SKU0033,MSI,MSI-Model-33,Apple M1,8GB,512GB SSD,1TB HDD,RTX 3050,14,FHD,1.37,Windows 11,Notebook,5.8,No,161258
+SKU0034,Acer,Acer-Model-34,Ryzen 5 5600H,32GB,512GB SSD,None,Intel Iris Xe,16,FHD,1.45,Linux,Notebook,8.4,No,75722
+SKU0035,Apple,Apple-Model-35,Ryzen 7 5800H,16GB,1TB SSD,None,Intel Iris Xe,16,HD,2.3,Linux,Ultrabook,4.6,No,40143
+SKU0036,Dell,Dell-Model-36,Apple M2,8GB,256GB SSD,1TB HDD,Integrated,15.6,FHD,1.61,Windows 11,Ultrabook,6.4,Yes,133451
+SKU0037,Acer,Acer-Model-37,Ryzen 5 5600H,32GB,256GB SSD,None,GTX 1650,13.3,QHD,1.67,Windows 10,Ultrabook,8.8,No,53560
+SKU0038,Lenovo,Lenovo-Model-38,Apple M1,16GB,512GB SSD,None,Intel Iris Xe,14,QHD,2.18,macOS,Ultrabook,9.2,No,71668
+SKU0039,Dell,Dell-Model-39,Intel i3-1115G4,8GB,256GB SSD,1TB HDD,GTX 1650,14,HD,1.66,Windows 10,Business,7.7,No,126205
+SKU0040,HP,HP-Model-40,Ryzen 7 5800H,16GB,512GB SSD,None,RTX 3060,16,HD,1.35,Windows 10,Ultrabook,6.1,Yes,39373
+SKU0041,MSI,MSI-Model-41,Intel i7-12700H,32GB,256GB SSD,None,GTX 1650,15.6,FHD,1.64,macOS,Notebook,5,No,56597
+SKU0042,Apple,Apple-Model-42,Apple M2,32GB,1TB SSD,1TB HDD,Integrated,13.3,HD,2.03,Windows 11,Notebook,4.6,No,93504
+SKU0043,Lenovo,Lenovo-Model-43,Intel i3-1115G4,32GB,1TB SSD,None,GTX 1650,16,QHD,2.38,macOS,Business,7.2,No,148885
+SKU0044,HP,HP-Model-44,Apple M2,16GB,256GB SSD,None,Integrated,14,QHD,2.1,macOS,Business,6.3,Yes,138823
+SKU0045,HP,HP-Model-45,Intel i7-12700H,32GB,512GB SSD,1TB HDD,Intel Iris Xe,15.6,HD,1.35,Linux,Gaming,6.2,No,136211
+SKU0046,ASUS,ASUS-Model-46,Ryzen 7 5800H,8GB,256GB SSD,None,Intel Iris Xe,16,QHD,2.32,Windows 11,Ultrabook,6.6,No,126950
+SKU0047,ASUS,ASUS-Model-47,Intel i5-12450H,8GB,1TB SSD,None,Integrated,14,QHD,2.24,macOS,Business,6.2,No,134589
+SKU0048,Dell,Dell-Model-48,Intel i5-12450H,32GB,512GB SSD,1TB HDD,RTX 3060,15.6,QHD,1.49,Windows 10,Business,8.9,Yes,54276
+SKU0049,HP,HP-Model-49,Intel i7-12700H,16GB,1TB SSD,None,RTX 3050,16,QHD,1.24,macOS,Ultrabook,7.9,No,173996
+SKU0050,Lenovo,Lenovo-Model-50,Apple M1,16GB,256GB SSD,None,Integrated,14,QHD,1.75,Windows 10,Ultrabook,9,No,114965
