@@ -9,7 +9,7 @@ The project contains everything from raw data ingestion → preprocessing → mo
 # 🚀 Features
 
 ### ✅ **1. Automated ML Pipeline (`main.py`)**
-- Data ingestion from MySQL  
+- Data ingestion from MySQL
 - Data validation  
 - Data transformation (scaling + encoding)  
 - Model training (Linear Regression + Random Forest)  
@@ -148,5 +148,6 @@ MAE:      5749.01
 
 # ⭐ Support
 If you like this project, give it a ⭐ on GitHub!
+
 
 
